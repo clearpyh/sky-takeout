@@ -7,8 +7,4 @@ sky:
     username: root
     password: ""
 
-  alioss:
-    access-key-id:
-    endpoint: oss-cn-beijing.aliyuncs.com
-    access-key-secret:
-    bucket-name: puyinghao
+
